@@ -36,8 +36,7 @@ setup(name='sigver',
           'scikit-learn>=0.19.0',
           'matplotlib>=2.0',
           'tqdm',
-          'scikit-image',
-          'visdom_logger'
+          'scikit-image'
       ],
       python_requires='>=3',
       dependency_links=[
