@@ -15,7 +15,7 @@ This code is a re-implementation in Pytorch (original code for [1] was written i
 This package requires python 3. Installation can be done with pip:
 
 ```bash
-pip install git+https://github.com/luizgh/sigver.git  --process-dependency-links
+pip install git+https://github.com/variux/sigver.git  --process-dependency-links
 ```
 
 You can also clone this repository and install it with ```pip install -e <path/to/repository>  --process-dependency-links```
